@@ -24,4 +24,4 @@
 
 
 ## 今天的知识点 (2020.01.16) —— 第1天
-- 【js】vuex和window下存对象保存数据有什么区别？(https://github.com/misty0304/day-interview/issues/1)
+- 【js】[vuex和window下存对象保存数据有什么区别？](https://github.com/misty0304/day-interview/issues/1)
