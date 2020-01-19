@@ -26,11 +26,17 @@
   <img src="https://img.moredian.com/temporary/2020/1/16/18/4b9cd5cd2d1b4f799998d005a32a236b.jpg" width="150px">
 </p>
 
-## 今天的知识点 (2020.01.17) —— 第2天
-- 【js】[什么是柯里化？使用柯里化实现下面输出都是一致的，在currying()中填入你的代码](https://github.com/misty0304/day-interview/issues/2)
+## 今天的知识点 (2020.01.19) —— 第4天
+- 【html】[jpg和png的区别是什么？](https://github.com/misty0304/day-interview/issues/4)
 
 ## 历史面试题
 - **[查看全部](https://github.com/misty0304/day-interview/issues)**
 
 - 第1天 (2020.01.16)
   - 【js】[vuex和window下存对象保存数据有什么区别？](https://github.com/misty0304/day-interview/issues/1)
+
+- 第2天 (2020.01.17)
+  - 【js】[什么是柯里化？使用柯里化实现下面输出都是一致的，在currying()中填入你的代码](https://github.com/misty0304/day-interview/issues/2)
+
+- 第3天 (2020.01.18)
+  - 【css】[使一个长方形垂直居中的方法有哪些？](https://github.com/misty0304/day-interview/issues/3)
