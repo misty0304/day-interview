@@ -26,8 +26,8 @@
   <img src="https://img.moredian.com/temporary/2020/1/16/18/4b9cd5cd2d1b4f799998d005a32a236b.jpg" width="150px">
 </p>
 
-## 今天的知识点 (2020.01.19) —— 第4天
-- 【html】[jpg和png的区别是什么？](https://github.com/misty0304/day-interview/issues/4)
+## 今天的知识点 (2020.01.20) —— 第4天
+- 【js】[说说继承的几种方式，并尝试手写出来](https://github.com/misty0304/day-interview/issues/5)
 
 ## 历史面试题
 - **[查看全部](https://github.com/misty0304/day-interview/issues)**
@@ -40,3 +40,6 @@
 
 - 第3天 (2020.01.18)
   - 【css】[使一个长方形垂直居中的方法有哪些？](https://github.com/misty0304/day-interview/issues/3)
+
+- 第4天 (2020.01.19)
+  - 【html】[jpg和png的区别是什么？](https://github.com/misty0304/day-interview/issues/4)
