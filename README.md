@@ -26,7 +26,7 @@
   <img src="https://img.moredian.com/temporary/2020/1/16/18/4b9cd5cd2d1b4f799998d005a32a236b.jpg" width="150px">
 </p>
 
-## 今天的知识点 (2020.01.20) —— 第4天
+## 今天的知识点 (2020.01.20) —— 第5天
 - 【js】[说说继承的几种方式，并尝试手写出来](https://github.com/misty0304/day-interview/issues/5)
 
 ## 历史面试题
