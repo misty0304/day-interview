@@ -26,22 +26,23 @@
   <img src="https://img.moredian.com/temporary/2020/1/16/18/4b9cd5cd2d1b4f799998d005a32a236b.jpg" width="150px">
 </p>
 
-## 今天的知识点 (2020.01.21) —— 第6天
-- 【js】[什么是promise，说说promise需要遵循哪些规则？](https://github.com/misty0304/day-interview/issues/6)
+## 今天的知识点 (2020.01.22) —— 第7天
+- 【css】[盒模型有哪些及区别](https://github.com/misty0304/day-interview/issues/7)
 
 ## 历史面试题
 - **[查看全部](https://github.com/misty0304/day-interview/issues)**
 
 - 第1天 (2020.01.16)
-  - 【js】[vuex和window下存对象保存数据有什么区别？](https://github.com/misty0304/day-interview/issues/1)
+	- 【js】[vuex和window下存对象保存数据有什么区别？](https://github.com/misty0304/day-interview/issues/1)
 
 - 第2天 (2020.01.17)
-  - 【js】[什么是柯里化？使用柯里化实现下面输出都是一致的，在currying()中填入你的代码](https://github.com/misty0304/day-interview/issues/2)
+	- 【js】[什么是柯里化？使用柯里化实现下面输出都是一致的，在currying()中填入你的代码](https://github.com/misty0304/day-interview/issues/2)
 
 	...
 
-- 第4天 (2020.01.19)
-  - 【html】[jpg和png的区别是什么？](https://github.com/misty0304/day-interview/issues/4)
 
 - 第5天 (2020.01.20)
-  - 【js】[说说继承的几种方式，并尝试手写出来](https://github.com/misty0304/day-interview/issues/5)
+	- 【js】[说说继承的几种方式，并尝试手写出来](https://github.com/misty0304/day-interview/issues/5)
+
+- 第6天 (2020.01.21)
+	- 【js】[什么是promise，说说promise需要遵循哪些规则？](https://github.com/misty0304/day-interview/issues/6)
