@@ -26,8 +26,8 @@
   <img src="https://img.moredian.com/temporary/2020/1/16/18/4b9cd5cd2d1b4f799998d005a32a236b.jpg" width="150px">
 </p>
 
-## 今天的知识点 (2020.01.23) —— 第8天
-- 【css】[px、em、rem的区别](https://github.com/misty0304/day-interview/issues/8)
+## 今天的知识点 (2020.01.25) —— 第10天
+- 【js】[请实现一下防抖和节流](https://github.com/misty0304/day-interview/issues/10)
 
 ## 历史面试题
 - **[查看全部](https://github.com/misty0304/day-interview/issues)**
@@ -41,8 +41,8 @@
 	...
 
 
-- 第6天 (2020.01.21)
-	- 【js】[什么是promise，说说promise需要遵循哪些规则？](https://github.com/misty0304/day-interview/issues/6)
+- 第8天 (2020.01.23)
+	- 【css】[px、em、rem的区别](https://github.com/misty0304/day-interview/issues/8)
 
-- 第7天 (2020.01.22)
-	- 【css】[盒模型有哪些及区别](https://github.com/misty0304/day-interview/issues/7)
+- 第9天 (2020.01.24)
+	- 【js】[说说js执行机制，事件循环，宏任务，微任务](https://github.com/misty0304/day-interview/issues/9)
