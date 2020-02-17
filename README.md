@@ -26,8 +26,8 @@
   <img src="https://img.moredian.com/temporary/2020/1/16/18/4b9cd5cd2d1b4f799998d005a32a236b.jpg" width="150px">
 </p>
 
-## 今天的知识点 (2020.01.25) —— 第10天
-- 【js】[请实现一下防抖和节流](https://github.com/misty0304/day-interview/issues/10)
+## 今天的知识点 (2020.02.17) —— 第33天
+- 【其他】[如何对网站进行SEO优化？](https://github.com/misty0304/day-interview/issues/33)
 
 ## 历史面试题
 - **[查看全部](https://github.com/misty0304/day-interview/issues)**
@@ -41,8 +41,8 @@
 	...
 
 
-- 第8天 (2020.01.23)
-	- 【css】[px、em、rem的区别](https://github.com/misty0304/day-interview/issues/8)
+- 第31天 (2020.02.15)
+	- 【js】[three.js中的三大组件分别是哪些？都起到什么作用？](https://github.com/misty0304/day-interview/issues/31)
 
-- 第9天 (2020.01.24)
-	- 【js】[说说js执行机制，事件循环，宏任务，微任务](https://github.com/misty0304/day-interview/issues/9)
+- 第32天 (2020.02.16)
+	- 【js】[three.js中相机的默认位置是哪？如何调整相机观看方向？](https://github.com/misty0304/day-interview/issues/32)
