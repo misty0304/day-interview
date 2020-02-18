@@ -26,8 +26,8 @@
   <img src="https://img.moredian.com/temporary/2020/1/16/18/4b9cd5cd2d1b4f799998d005a32a236b.jpg" width="150px">
 </p>
 
-## 今天的知识点 (2020.02.17) —— 第33天
-- 【其他】[如何对网站进行SEO优化？](https://github.com/misty0304/day-interview/issues/33)
+## 今天的知识点 (2020.02.18) —— 第34天
+- 【js】[如何实现点击元素内部不隐藏该元素，点击元素外部则隐藏该元素？](https://github.com/misty0304/day-interview/issues/34)
 
 ## 历史面试题
 - **[查看全部](https://github.com/misty0304/day-interview/issues)**
@@ -44,5 +44,5 @@
 - 第31天 (2020.02.15)
 	- 【js】[three.js中的三大组件分别是哪些？都起到什么作用？](https://github.com/misty0304/day-interview/issues/31)
 
-- 第32天 (2020.02.16)
-	- 【js】[three.js中相机的默认位置是哪？如何调整相机观看方向？](https://github.com/misty0304/day-interview/issues/32)
+- 第33天 (2020.02.16)
+	- 【其他】[如何对网站进行SEO优化？](https://github.com/misty0304/day-interview/issues/33)
