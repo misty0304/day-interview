@@ -26,8 +26,8 @@
   <img src="https://img.moredian.com/temporary/2020/1/16/18/4b9cd5cd2d1b4f799998d005a32a236b.jpg" width="150px">
 </p>
 
-## 今天的知识点 (2020.02.19) —— 第35天
-- 【js】[写一个table组件，满足第一行和第一列固定，剩余部分可以上下左右滚动](https://github.com/misty0304/day-interview/issues/35)
+## 今天的知识点 (2020.02.20) —— 第36天
+- 【其他】[如何实现浏览器内多个标签页之间的通信?](https://github.com/misty0304/day-interview/issues/36)
 
 ## 历史面试题
 - **[查看全部](https://github.com/misty0304/day-interview/issues)**
@@ -39,10 +39,10 @@
 	- 【js】[什么是柯里化？使用柯里化实现下面输出都是一致的，在currying()中填入你的代码](https://github.com/misty0304/day-interview/issues/2)
 
 	...
-
-
-- 第33天 (2020.02.17)
-	- 【其他】[如何对网站进行SEO优化？](https://github.com/misty0304/day-interview/issues/33)
+	
 
 - 第34天 (2020.02.18)
 	- 【js】[如何实现点击元素内部不隐藏该元素，点击元素外部则隐藏该元素？](https://github.com/misty0304/day-interview/issues/34)
+
+- 第35天 (2020.02.19)
+	- 【js】[写一个table组件，满足第一行和第一列固定，剩余部分可以上下左右滚动](https://github.com/misty0304/day-interview/issues/35)
